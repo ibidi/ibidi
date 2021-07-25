@@ -1,7 +1,7 @@
 ### It's me, ibidi 👋
 ![](https://komarev.com/ghpvc/?username=ibidi)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/239330400223232000?hideDiscrim=true)](https://discord.com/users/282238108739567647)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/282238108739567647?hideDiscrim=true)](https://discord.com/users/282238108739567647)
 
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
