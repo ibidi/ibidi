@@ -3,6 +3,10 @@
 
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/282238108739567647?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/282238108739567647)
+
+ <h1 style="font-size:300%;"><img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="20px" width="40px"> Drinking</h1>
+
 - My website: [ibidi.app](https://ibidi.app)
 - Twitter: [@ibishuu](https://twitter.com/ibishuu)
 
