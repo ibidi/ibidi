@@ -1,5 +1,10 @@
 ### It's me, ibidi 👋
 ![](https://komarev.com/ghpvc/?username=ibidi)
+<div align="center">
+   <a href="https://discord.com/users/282238108739567647" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/282238108739567647?bg=111111">
+   </a>
+</div>
 
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
