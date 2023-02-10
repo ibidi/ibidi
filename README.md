@@ -1,17 +1,6 @@
 
 <h1 align="center">Hi, It's me, ibidi 👋</h1>
 <h3 align="center">Freelancer, reverse engineer, full-stack developer and wannabe security analyst.</h3>
-
-- 🔭 I’m currently working on **Blockchain Technologies.**
-
-- 🌱 I’m currently learning **Solidity, Ethers, Go-Ethereum, Flashbots.**
-
-- 👨‍💻 All of my public projects are available at [@ibidi](@ibidi)
-
-- 💬 You can ask me about **Solidity, DApps and more** or you can hire me for your project! (Telegram: [@ibidi](@ibidi))
-
-- ❤️ You can donate to support me & my projects! (loading...)
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibidi&show_icons=true&theme=nightowl&count_private=true" alt="Welcome"/>
 </p>
