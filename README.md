@@ -4,3 +4,4 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibidi&show_icons=true&theme=nightowl&count_private=true" alt="Welcome"/>
 </p>
+![](https://komarev.com/ghpvc/?username=ibidi)
