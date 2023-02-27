@@ -8,8 +8,8 @@ src="https://img.shields.io/github/followers/ibidi?logo=github&style=for-the-bad
 
 Here are some details about me and my profile on GitHub:
 
-- 💼 I'm the Founder of [10fwd](https://deday.com.tr/)
-- ✍️ I'm blogging at [eser.dev](https://ibidi.org)
+- 💼 I'm the Founder of [deday](https://deday.com.tr/)
+- ✍️ I'm blogging at [ibidi's blog](https://ibidi.org)
 - 🎬 I'm streaming at [youtube.com/ibishu](https://youtube.com/@ibishu)
 - 💬 Ask me about: Software Craftsmanship, DevOps, Full-Stack Development, Web Development, JavaScript, TypeScript
 - 📫 How to reach me: [superpeer.com/ibidi](https://superpeer.com/ibidi)
