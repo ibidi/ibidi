@@ -4,6 +4,7 @@
 src="https://img.shields.io/twitter/follow/ibidi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/ibidi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ibidi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<script src="https://tryhackme.com/badge/2484814"></script>
 
 
 Here are some details about me and my profile on GitHub:
