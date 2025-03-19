@@ -1,4 +1,4 @@
-<h1>Welcome to my GitHub profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30px"></h1>
+<h1>Welcome to my GitHub profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="31px"></h1>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ibidi&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
