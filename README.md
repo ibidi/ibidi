@@ -8,7 +8,7 @@ Hi 👋 I am a full stack developer from <img width="20" height="20" align="cent
 
 Engineer by day, Full Stack Developer by night: https://ibidi.tr
 
-40k - followers I have on social media platforms
+60k - followers I have on social media platforms
 github: @ibidi
 instagram: @ihsanbakidogann
 x: @ibidicodes
