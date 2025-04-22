@@ -15,10 +15,3 @@ Outside of coding, I love learning how things work — not just technically, but
 **A note about the web**
 
 Web development today isn’t just about visuals — it’s about making digital experiences faster, more secure, and more human. The web feels like home to me — and I’m here to keep building it better, layer by layer.
-
-Engineer by day, Full Stack Developer by night: https://ibidi.tr
-
-55k - followers I have on social media platforms
-github: @ibidi
-instagram: @ihsanbakidogann
-x: @ibidicodes
