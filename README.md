@@ -4,7 +4,7 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibidi&theme=dark&hide_border=true&layout=compact">
 
-Hi 👋 Im ibidi. 24 y/o full stack developer from <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Türkiye**.
+Hi 👋 Im ibidi. 25 y/o full stack developer from <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Türkiye**.
 
 I design, develop and deliver useful, fast, and clean products. Currently, I’m focused on growing my own ideas and contributing to digital ecosystems that actually matter.
 
