@@ -4,9 +4,9 @@
 
 ### Full Stack Developer | Product Builder | Digital Craftsman
 
-[![Website](https://img.shields.io/badge/Website-ihsanbakidogan.com-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ihsanbakidogan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsanbakidogan)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ibidi)
+[![Website](https://img.shields.io/badge/-ihsanbakidogan.com-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ihsanbakidogan.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsanbakidogan)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ibidi)
 
 </div>
 
