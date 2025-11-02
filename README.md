@@ -1,8 +1,10 @@
 <div align="center">
+
+<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="100">
   
 # Hi, I'm İhsan Baki Doğan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### Full Stack Developer | Product Builder | Digital Craftsman
+### Full Stack Developer | Vibe Coder | UI/UX Designer
 
 [![Website](https://img.shields.io/badge/-ihsanbakidogan.com-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ihsanbakidogan.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibidi)
@@ -72,7 +74,7 @@ const ibidi = {
 
 ---
 
-## � LLatest Blog Posts
+## � Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - 🚀 [Next.js 16 Yayınlandı: Yeni Nesil Performans ve Geliştirici Deneyimi](https://ihsanbakidogan.com/blog/nextjs-v16) - *21 Ekim 2024*
