@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-ihsanbakidogan.com-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ihsanbakidogan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsanbakidogan)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ibidi)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ibidi)
 
 </div>
 
@@ -66,31 +66,6 @@ const ibidi = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibidi&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibidi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=E5E7EB" />
 </div>
-
----
-
-## 🎯 What I Believe In
-
-> **"Web development today isn't just about visuals — it's about making digital experiences faster, more secure, and more human."**
-
-I approach every project with three core principles:
-
-- **🎨 Design with Purpose** — Every pixel should serve the user
-- **⚡ Performance Matters** — Speed is a feature, not a luxury
-- **🔒 Security First** — Trust is earned through reliability
-
-The web feels like home to me — and I'm here to keep building it better, **layer by layer**.
-
----
-
-## 🌱 Beyond Code
-
-I'm not just interested in *how* things work technically — I care about *why* they work strategically:
-
-- 📈 User journeys and product-market fit
-- 🧠 How tech meets people
-- 💡 Turning ideas into scalable products
-- 🤝 Collaborating with early-stage projects
 
 ---
 
