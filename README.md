@@ -1,12 +1,15 @@
 <div align="center">
   
-# Hi, I'm İhsan Baki Doğan 👋
+# Hi, I'm İhsan Baki Doğan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ### Full Stack Developer | Product Builder | Digital Craftsman
 
 [![Website](https://img.shields.io/badge/-ihsanbakidogan.com-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ihsanbakidogan.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihsanbakidogan)
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ibidi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibidi)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ibidicodes)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ihsanbakidogann)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibidi)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@ihsanbakidogan.com)
 
 </div>
 
@@ -69,16 +72,22 @@ const ibidi = {
 
 ---
 
+## � LLatest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [Next.js 16 Yayınlandı: Yeni Nesil Performans ve Geliştirici Deneyimi](https://ihsanbakidogan.com/blog/nextjs-v16) - *21 Ekim 2024*
+- ✨ [Web Siteme Yeni Güncellemeler: Dinamik İçerik ve Animasyonlar!](https://ihsanbakidogan.com/blog/web-siteme-yeni-guncellemeler-2025) - *14 Ekim 2024*
+- 🎨 [Anasayfama Taze Bir Soluk: Animasyonlu Arka Plan ve Blog Entegrasyonu!](https://ihsanbakidogan.com/blog/anasayfama-yeni-ozellikler-ve-blog-entegrasyonu) - *8 Haziran 2024*
+- 🔒 [Discord Token Kullanımı ve Güvenlik](https://ihsanbakidogan.com/blog/discord-token-kullanimi) - *1 Ocak 2025*
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [**Tüm blog yazılarını görüntüle**](https://ihsanbakidogan.com/blog)
+
+---
+
 ## 📫 Let's Connect
 
-I'm always open to interesting conversations about tech, product, or collaboration opportunities.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-contact@ihsanbakidogan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ihsanbakidogan.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ihsanbakidogan.com)
-
-</div>
+I'm always open to interesting conversations about tech, product, or collaboration opportunities. Feel free to reach out!
 
 ---
 
