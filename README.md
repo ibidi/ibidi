@@ -72,13 +72,6 @@ const ibidi = {
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibidi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=E5E7EB" />
 </div>
 
-### � Sipotify Now Playing
-<div align="center">
-  
-[![Spotify](https://novatorem-kappa-six.vercel.app/api/spotify)](https://open.spotify.com/user/31fmdvinmt43fgn6rr7o7xsctdpq)
-
-</div>
-
 ### 📊 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/ibidi/ibidi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
