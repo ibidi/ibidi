@@ -74,7 +74,9 @@ const ibidi = {
 
 ### � Sipotify Now Playing
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fmdvinmt43fgn6rr7o7xsctdpq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=a78bfa&bar_color_cover=true" alt="Spotify Now Playing" />
+  
+[![Spotify](https://novatorem-kappa-six.vercel.app/api/spotify)](https://open.spotify.com/user/31fmdvinmt43fgn6rr7o7xsctdpq)
+
 </div>
 
 ### 📊 Contribution Snake
