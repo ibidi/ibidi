@@ -64,7 +64,7 @@ const ibidi = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibidi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ibidi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ibidi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 </div>
 
 <div align="center">
