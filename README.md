@@ -72,15 +72,37 @@ const ibidi = {
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibidi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=E5E7EB" />
 </div>
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibidi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+### 📊 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ibidi/ibidi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+## 🎯 What I'm Working On
+
+```javascript
+const currentFocus = {
+  learning: ["Advanced System Design", "Performance Optimization"],
+  building: ["Personal Projects", "Open Source Contributions"],
+  exploring: ["AI Integration", "Web3 Technologies"],
+  improving: ["Code Quality", "User Experience"]
+};
+```
+
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [Next.js 16 Yayınlandı: Yeni Nesil Performans ve Geliştirici Deneyimi](https://ihsanbakidogan.com/blog/nextjs-v16) - *21 Ekim 2024*
-- ✨ [Web Siteme Yeni Güncellemeler: Dinamik İçerik ve Animasyonlar!](https://ihsanbakidogan.com/blog/web-siteme-yeni-guncellemeler-2025) - *14 Ekim 2024*
-- 🎨 [Anasayfama Taze Bir Soluk: Animasyonlu Arka Plan ve Blog Entegrasyonu!](https://ihsanbakidogan.com/blog/anasayfama-yeni-ozellikler-ve-blog-entegrasyonu) - *8 Haziran 2024*
-- 🔒 [Discord Token Kullanımı ve Güvenlik](https://ihsanbakidogan.com/blog/discord-token-kullanimi) - *1 Ocak 2025*
+- 🚀 [Next.js 16 Yayınlandı: Yeni Nesil Performans ve Geliştirici Deneyimi](https://ihsanbakidogan.com/blog/nextjs-v16)
+- ✨ [Web Siteme Yeni Güncellemeler: Dinamik İçerik ve Animasyonlar!](https://ihsanbakidogan.com/blog/web-siteme-yeni-guncellemeler-2025)
+- 🎨 [Anasayfama Taze Bir Soluk: Animasyonlu Arka Plan ve Blog Entegrasyonu!](https://ihsanbakidogan.com/blog/anasayfama-yeni-ozellikler-ve-blog-entegrasyonu)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [**Tüm blog yazılarını görüntüle**](https://ihsanbakidogan.com/blog)
