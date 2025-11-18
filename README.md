@@ -72,9 +72,9 @@ const ibidi = {
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibidi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=E5E7EB" />
 </div>
 
-### 🏆 GitHub Trophies
+### � Sipotify Now Playing
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibidi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=a78bfa&bar_color_cover=true" alt="Spotify Now Playing" />
 </div>
 
 ### 📊 Contribution Snake
