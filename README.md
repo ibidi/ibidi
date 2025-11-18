@@ -1,10 +1,8 @@
 <div align="center">
-  
-# Hi, I'm İhsan Baki Doğan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### Full Stack Developer | Vibe Coder | UI/UX Designer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+İhsan+Baki+Doğan+👋;Full+Stack+Developer+%7C+Vibe+Coder+%7C+UI%2FUX+Designer;Building+digital+experiences+that+scale+🚀" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 [![Website](https://img.shields.io/badge/-ihsanbakidogan.com-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ihsanbakidogan.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibidi)
@@ -15,9 +13,9 @@
 
 </div>
 
----
+<br>
 
-## 🚀 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
 I'm a **25-year-old full stack developer** from 🇹🇷 **Türkiye**, passionate about building digital products that are **fast, clean, and useful**. I don't just write code — I craft experiences that scale and feel seamless for real users.
 
@@ -37,9 +35,9 @@ const ibidi = {
 };
 ```
 
----
+<br>
 
-## 💻 Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
@@ -58,9 +56,9 @@ const ibidi = {
 
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibidi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB" />
@@ -72,9 +70,9 @@ const ibidi = {
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibidi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=E5E7EB" />
 </div>
 
----
+<br>
 
-## � Latest Blog Posts
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - 🚀 [Next.js 16 Yayınlandı: Yeni Nesil Performans ve Geliştirici Deneyimi](https://ihsanbakidogan.com/blog/nextjs-v16) - *21 Ekim 2024*
@@ -85,18 +83,31 @@ const ibidi = {
 
 ➡️ [**Tüm blog yazılarını görüntüle**](https://ihsanbakidogan.com/blog)
 
----
+<br>
 
-## 📫 Let's Connect
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="70"> Let's Connect
+
+<div align="center">
 
 I'm always open to interesting conversations about tech, product, or collaboration opportunities. Feel free to reach out!
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4ff6-b8c3-c5e3c7e5f5e5.gif" width="400">
+
+</div>
+
+<br>
 
 <div align="center">
-  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 ### 💭 *"Building digital experiences that scale and feel seamless for real users."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibidi&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ibidi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ibidi?style=for-the-badge&color=A78BFA&labelColor=0D1117)](https://github.com/ibidi?tab=followers)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+**Made with 💜 by İhsan Baki Doğan**
 
 </div>
