@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+İhsan+Baki+Doğan+👋;Full+Stack+Developer+%7C+Vibe+Coder+%7C+UI%2FUX+Designer;Building+digital+experiences+that+scale+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi,+I'm+İhsan+Baki+Doğan+👋;Full+Stack+Developer;Vibe+Coder+%7C+UI%2FUX+Designer;Building+Digital+Experiences+🚀" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
