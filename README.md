@@ -29,7 +29,7 @@ const ibidi = {
   location: "Türkiye 🇹🇷",
   age: 25,
   role: "Full Stack Developer",
-  focus: ["Product Development", "User Experience", "Scalable Systems"],
+  focus: ["User Experience", "Scalable Systems"],
   philosophy: "Build things that scale and feel seamless for real users"
 };
 ```
