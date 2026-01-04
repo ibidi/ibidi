@@ -60,18 +60,6 @@ const ibidi = {
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Next.js 16 Yayınlandı: Yeni Nesil Performans ve Geliştirici Deneyimi](https://ihsanbakidogan.com/blog/nextjs-v16)
-- ✨ [Web Siteme Yeni Güncellemeler: Dinamik İçerik ve Animasyonlar!](https://ihsanbakidogan.com/blog/web-siteme-yeni-guncellemeler-2025)
-- 🎨 [Anasayfama Taze Bir Soluk: Animasyonlu Arka Plan ve Blog Entegrasyonu!](https://ihsanbakidogan.com/blog/anasayfama-yeni-ozellikler-ve-blog-entegrasyonu)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [**Tüm blog yazılarını görüntüle**](https://ihsanbakidogan.com/blog)
-
-<br>
-
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="70"> Let's Connect
 
 <div align="center">
