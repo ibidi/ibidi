@@ -71,8 +71,4 @@ I'm always open to interesting conversations about tech, product, or collaborati
 ![Profile Views](https://komarev.com/ghpvc/?username=ibidi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/ibidi?style=for-the-badge&color=A78BFA&labelColor=0D1117)](https://github.com/ibidi?tab=followers)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-**Made with 💜 by İhsan Baki Doğan**
-
 </div>
