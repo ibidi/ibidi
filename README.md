@@ -14,16 +14,6 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
-
-I'm a **25-year-old full stack developer** from 🇹🇷 **Türkiye**, passionate about building digital products that are **fast, clean, and useful**. I don't just write code — I craft experiences that scale and feel seamless for real users.
-
-Currently focused on:
-- 🎯 Growing my own ideas and side projects
-- 🌐 Contributing to digital ecosystems that actually matter
-- 📚 Exploring the intersection of tech, product, and user experience
-- 🔧 Helping early-stage projects refine both product and vision
-
 ```typescript
 const ibidi = {
   location: "Türkiye 🇹🇷",
