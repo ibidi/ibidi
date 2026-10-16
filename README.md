@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Website](https://img.shields.io/badge/-ihsanbakidogan.com-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ihsanbakidogan.com)
+[![Website](https://img.shields.io/badge/-ihsanbakidogan.com-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ibidi.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibidi)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ihsanbakidogan)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibidi)
